@@ -16,7 +16,8 @@ fasdkfsadfsdfds
 
 ### Day 1--2: Setup & Introduction
 
-- Install JDK
+[] Install JDK
+
 - Install IDE (IntelliJ / Eclipse / VS Code)
 - Write your first program (Hello World)
 - Understand JVM, JRE, JDK
@@ -150,8 +151,6 @@ API
 
 - Revise OOP concepts
 - Practice arrays & strings
-
-afadfsdfdsfdf
 
 - Solve coding interview questions
 
