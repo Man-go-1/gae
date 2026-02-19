@@ -8,6 +8,8 @@ per day**
 
 ---
 
+fasdkfsadfsdfds
+
 # 🟢 Week 1: Java Fundamentals
 
 ## Goal: Understand syntax & basic programming logic
