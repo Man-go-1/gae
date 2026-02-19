@@ -9,8 +9,8 @@ This 4-week plan is designed for beginners who want to build strong Core Java fu
 ## Goal: Understand syntax & basic programming logic
 
 ### Day 1–2: Setup & Introduction
-- [ ] Install JDK
-- [ ] Install IDE (IntelliJ / Eclipse / VS Code)
+- [x] Install JDK
+- [x] Install IDE (IntelliJ / Eclipse / VS Code)
 - [ ] Write your first program (Hello World)
 - [ ] Understand JVM, JRE, JDK
 - [ ] Learn Java compilation process
